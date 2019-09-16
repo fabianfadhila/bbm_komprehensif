@@ -7,7 +7,7 @@ $no = 0;
 <!-- Main content -->
 
 <div class="container-fluid">
-  <h3 class="box-title">Data user</h3>
+   <h1 class="h3 mb-2 text-gray-800">Data User</h1>
   <div class="card shadow mb-4">
     <div class="card-header py-3">
       <a href="index1.php?page=input-data-user" class="btn btn-primary"> Tambah </a>
