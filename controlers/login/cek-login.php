@@ -1,5 +1,5 @@
 <?php
-include "../../class/user.php";
+include "/../../class/user.php";
 $user = new user();
 
 //mengisi atribut dengan hasil dari inputan
